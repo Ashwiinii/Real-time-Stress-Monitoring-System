@@ -16,15 +16,15 @@ Comprehensive data processing pipeline, starting from data cleaning to feature e
 The code was written in Python 3 within Jupyter Notebooks (`.ipynb`).
 Below are the python libraries necessary for this section.
 
-- "pandas"
-- "numpy"
-- "matplotlib"
-- "scipy"
-- "imblearn"
-- "wfdb"
-- "sklearn"
-- "torch"
-- "seaborn"
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `scipy`
+- `imblearn`
+- `wfdb`
+- `sklearn`
+- `torch`
+- `seaborn`
 
 ## Files description
 
