@@ -28,9 +28,9 @@ Below are the python libraries necessary for this section.
 
 ## Files description
 
-1. pre-processing.ipynb -> Contains code to read and annotate driveDB dataset.
-2. ECG_signal_processing.ipynb -> Contains code that performs basic cleaning i.e., baseline wander removal, bandpass filtering. It also calculates Heart Rate (HR).
-3. Feature_extraction_and_ML.ipynb -> Contains code to extract features from ECG and HR data, to rank the features by computing feature importance, and the final code that trains and tests classical Machine Learning models.
-4. Deep_learning_training -> Training VGGNet architecture using PyTorch.
+1. `pre-processing.ipynb` -> Contains code to read and annotate driveDB dataset.
+2. `ECG_signal_processing.ipynb` -> Contains code that performs basic cleaning i.e., baseline wander removal, bandpass filtering. It also calculates Heart Rate (HR).
+3. `Feature_extraction_and_ML.ipynb` -> Contains code to extract features from ECG and HR data, to rank the features by computing feature importance, and the final code that trains and tests classical Machine Learning models.
+4. `Deep_learning_training` -> Training VGGNet architecture using PyTorch.
 
 Read report for full details!
